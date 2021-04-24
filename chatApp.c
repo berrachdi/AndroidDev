@@ -7,5 +7,8 @@ int main(){
   printf(" b = %d",b);
   printf(" b = %d",b);
   printf(" b = %d",b);
+  
+  int c;
+  float f;
 
 }
